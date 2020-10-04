@@ -1,0 +1,36 @@
+tiempos 1 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.004046
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 12.428330
+tiempos 2 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000528
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 6.781029
+tiempos 3 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000513
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 4.319853
+tiempos 4 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000263
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 3.233330

@@ -1,0 +1,116 @@
+Id. usuario del trabajo: A2estudiante5
+Id. del trabajo: 21220.atcgrid
+Nombre  del trabajo especificado por usuario: pmm-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/A2estudiante5/bp3/ejer10
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+tiempos 1 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.002216
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 16.083168
+tiempos 2 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.001164
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 8.292648
+tiempos 3 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000724
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 5.648455
+tiempos 4 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000419
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 4.345912
+tiempos 5 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000343
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 3.567937
+tiempos 6 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000303
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 3.025236
+tiempos 7 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000302
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 2.594714
+tiempos 8 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000265
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 2.319185
+tiempos 9 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000230
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 2.117861
+tiempos 10 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000227
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 1.908393
+tiempos 11 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000228
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 2.110994
+tiempos 12 hebras
+Tamaño 100
+resultado[0][0]=33335050.000000
+resultado[N-1][N-1]=5033335000.000000
+Tiempo: 0.000338
+Tamaño 1200
+resultado[0][0]=691200240600.000000
+resultado[N-1][N-1]=1244851200240000.000000
+Tiempo: 1.656917

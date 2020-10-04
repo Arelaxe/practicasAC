@@ -1,0 +1,35 @@
+Id. usuario del trabajo: A2estudiante5
+Id. del trabajo: 21060.atcgrid
+Nombre  del trabajo especificado por usuario: pmtv2
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/A2estudiante5/bp3/ejer7
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.098162
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.060467
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.059724
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.063314
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.064071
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.055424
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.054138
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.054804
+resultado[0]=1.000000
+resultado[N-1]=27832596037631248.000000
+Tiempo: 0.054269
