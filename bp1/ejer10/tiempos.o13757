@@ -1,0 +1,63 @@
+Id. usuario del trabajo: A2estudiante5
+Id. del trabajo: 13757.atcgrid
+NombreÂ  del trabajo especificado por usuario: tiempos
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/A2estudiante5/bp1/ejer9
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid2
+Tiempos secuencial\n
+Tamaño Vectores:16384 (4 B)
+0.000123
+Tamaño Vectores:32768 (4 B)
+0.000220
+Tamaño Vectores:65536 (4 B)
+0.000445
+Tamaño Vectores:131072 (4 B)
+0.000886
+Tamaño Vectores:262144 (4 B)
+0.001763
+Tamaño Vectores:524288 (4 B)
+0.002649
+Tamaño Vectores:1048576 (4 B)
+0.005254
+Tamaño Vectores:2097152 (4 B)
+0.009453
+Tamaño Vectores:4194304 (4 B)
+0.017396
+Tamaño Vectores:8388608 (4 B)
+0.032421
+Tamaño Vectores:16777216 (4 B)
+0.064150
+Tamaño Vectores:33554432 (4 B)
+0.134257
+Tamaño Vectores:67108864 (4 B)
+0.257259
+Tiempos for\n
+0.001706
+0.000046
+0.000102
+0.000112
+0.000230
+0.002615
+0.005740
+0.006134
+0.010402
+0.019208
+0.034227
+0.064204
+0.123420
+Tiempos sections\n
+0.000051
+0.000100
+0.000233
+0.000435
+0.000803
+0.001627
+0.002959
+0.007772
+0.014451
+0.016713
+0.042311
+0.096870
+0.139060
